@@ -148,7 +148,7 @@ void prinlAllLCSSorted(string str1, string str2)
 	printAll(str1, str2, len1, len2, data, 0, 0, 0); 
 } 
 
-// Driver program to run the case 
+
 int main() 
 { 
 	string str1 = "abcabcaa", str2 = "acbacba"; 
